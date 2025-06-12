@@ -1,4 +1,4 @@
-# TChallenge ONE Data Science: Alura Store - Mateus Souza
+# Challenge ONE Data Science: Alura Store - Mateus Souza
 
 ## Desafio AluraStoreBr
 
